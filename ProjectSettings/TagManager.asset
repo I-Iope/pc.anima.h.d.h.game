@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Through
+  - Plataform
+  - Enemies
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Obstacle
+  - Plataform
+  - Background
+  - Scene
+  - Falling
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 2738207097
+    locked: 0
+  - name: Bee
+    uniqueID: 2215974305
+    locked: 0
+  - name: Roses 0
+    uniqueID: 4041058753
+    locked: 0
+  - name: SupBackground
+    uniqueID: 2346207125
+    locked: 0
+  - name: Platform 0
+    uniqueID: 1652719785
+    locked: 0
+  - name: NPCs
+    uniqueID: 2144608837
+    locked: 0
+  - name: Phrases
+    uniqueID: 1402526289
+    locked: 0
+  - name: Player
+    uniqueID: 2479407905
+    locked: 0
+  - name: Rock
+    uniqueID: 617603801
+    locked: 0
+  - name: Roses 1
+    uniqueID: 548860063
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Scene
+    uniqueID: 90222359
+    locked: 0
+  - name: Platform 1
+    uniqueID: 2313398047
+    locked: 0
+  - name: Dialog
+    uniqueID: 2186529781
+    locked: 0
+  - name: Fade
+    uniqueID: 3139058749
+    locked: 0

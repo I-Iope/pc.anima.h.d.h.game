@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cee367eba456922438b460a9cb880edf
+timeCreated: 1503880206
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: sign-handwritng
+  fontNames:
+  - sign-handwritng
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
