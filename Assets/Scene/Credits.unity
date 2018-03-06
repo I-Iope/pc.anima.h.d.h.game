@@ -435,7 +435,7 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 12800000, guid: cee367eba456922438b460a9cb880edf, type: 3}
-    m_FontSize: 18
+    m_FontSize: 12
     m_FontStyle: 0
     m_BestFit: 0
     m_MinSize: 1
@@ -448,8 +448,9 @@ MonoBehaviour:
     m_LineSpacing: 1.5
   m_Text: "Font: sign-handwritng\r\nDireitos: https://fontscafe.com\r\n\r\nAgradecimentos\r:\nGostaria
     de agradecer aos meus amigos que tornaram poss\xEDvel o desenvolvimento desse
-    jogo e a todos que de forma direta ou indireta me ajudaram. \n\nMeu sincero obrigado
-    !!!"
+    jogo e a todos que de forma direta ou indireta me ajudaram. \n\nTamb\xE9m gostaria
+    de agradecer a PSOVOD, ShadyDave e unfa usu\xE1rios do https://freesound.org.\n\nMeu
+    sincero obrigado !!!"
 --- !u!222 &1614560405
 CanvasRenderer:
   m_ObjectHideFlags: 0
